@@ -60,7 +60,7 @@ def hex_to_dec(x):
 #     """
 #     if y > 10:
 #         # code
-#     # code for base < 10
+#     # code for base <= 10
 
 # def bin_complement(x):
 #     """return negative value equivalent in 2's complement system"""
